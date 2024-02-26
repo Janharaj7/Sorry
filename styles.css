@@ -1,0 +1,22 @@
+body {
+    background-image: url(Image/background.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Adjust opacity for desired darkness */
+    color: #fff;
+}
+
+.card {
+    border-radius: 20px;
+    background-image: url(Image/background.jpg);
+}
+
+#not-forgive-btn {
+    transition: transform 0.3s;
+}
+
+#not-forgive-btn:hover {
+    transform: rotate(5deg);
+}
+
+
+
